@@ -13,11 +13,12 @@
 
 - 📫 Como me encontrar:<br>
 &nbsp;
-<a href="mailto:franciscosoccol@gmail.com"><img src="https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/gmail.svg" height=17px width=17px> Gmail </a>&nbsp;&nbsp; |
-<a href="https://www.instagram.com/franciscosoccol/"><img src="https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/instagram.svg" height=17px width=17px> Instagram </a>&nbsp;&nbsp; | 
-<a href="https://www.linkedin.com/in/francisco-junior-soccol-16ba2213a/"><img src = "https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/linkedin.svg" height=17px width=17px> Linkedin </a>&nbsp;&nbsp;
+<a href="mailto:franciscosoccol@gmail.com"><img src="https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/gmail.svg" height=16px width=16px> Gmail </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.instagram.com/franciscosoccol/"><img src="https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/instagram.svg" height=16px width=16px> Instagram </a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/francisco-junior-soccol-16ba2213a/"><img src = "https://github.com/soccolfrancisco/soccolfrancisco/blob/master/icon/linkedin.svg" height=16px width=16px> Linkedin </a>&nbsp;&nbsp;
 ##
 
-### Acompanhe as Estatísticas do Github 🏆
+<!-- ### Acompanhe as Estatísticas do Github 🏆
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=soccolfrancisco&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ##
+-->
