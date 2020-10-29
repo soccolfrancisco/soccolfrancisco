@@ -1,7 +1,7 @@
 ## Olá, sou Francisco Jr Soccol 👋
 ### 
 
-- 🚀 Sou Engenheiro de Computação | Desenvolvedor FullStack
+- 🚀 Sou Engenheiro de Computação
 
 - 🎓 Graduado em Engenharia de Computação na Universidade Federal do Espírito Santo - [UFES](http://www.ufes.br/) (Turma de 2012)
 
