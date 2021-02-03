@@ -1,11 +1,11 @@
 ## Olá, sou Francisco Jr Soccol 👋
 ### 
 
-- 🚀 Sou Engenheiro de Computação
+- 🚀 Sou Engenheiro de Computação | Software
 
 - 🎓 Graduado em Engenharia de Computação na Universidade Federal do Espírito Santo - [UFES](http://www.ufes.br/) (Turma de 2012)
 
-- 🏢 Atualmente trabalho na [@moveis-simonetti](https://github.com/moveis-simonetti)
+- 🏢 Atualmente - [@moveis-simonetti](https://github.com/moveis-simonetti)
 
 - 🔭 CEO da StayFit - [www.stayfit.com.br](https://www.stayfit.com.br)
 
