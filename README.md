@@ -1,7 +1,7 @@
 ## Hey you! I'm Francisco Soccol 👋
 ### 
 
-- 🚀 I'm a Computer Engineer | Software
+- 🚀 I'm a Computer Engineer | PHP Developer
 
 - 🎓 Graduated in Computer Engineering at the Federal University of Espírito Santo - [UFES](http://www.ufes.br/) (Class of 2012)
 
