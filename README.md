@@ -1,13 +1,13 @@
 ## Hey you! I'm Francisco Soccol 👋
 ### 
 
-- 🚀 I'm a Computer Engineer | PHP Developer
+- 🚀 I'm a Computer Engineer | Software Enginner
 
 - 🎓 Graduated in Computer Engineering at the Federal University of Espírito Santo - [UFES](http://www.ufes.br/) (Class of 2012)
 
-- 🏢 Currently working at - [@moveis-simonetti](https://github.com/moveis-simonetti)
+- 🏢 Currently working at [Autoglass - Brasil](https://www.autoglass.com.br)
 
-- 🔭 I'm CEO of StayFit - [www.stayfit.com.br](https://www.stayfit.com.br)
+- 🔭 I'm CEO of [StayFit](https://www.stayfit.com.br)
 
 - 🏄 Free Surfer
 
