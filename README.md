@@ -7,7 +7,7 @@
 
 - 🥇 I am Microsoft Certified Professional and AWS Certifeid  
 
-- 🏢 Currently working at [Localiza&CO](https://www.localiza.com)
+- 🏢 Currently working at [Localiza&CO](https://www.localizaco.com)
 
 - 🏄 Free Surfer
 
